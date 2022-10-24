@@ -1,0 +1,19 @@
+{
+  "name": "b610-lerning-platform-server-side-shekhraselmasrurahmmadnissan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-ShekhRaselMasrurAhmmadNissan.git"
+  },
+  "author": "Shekh Rasel Masrur Ahmmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-ShekhRaselMasrurAhmmadNissan/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-ShekhRaselMasrurAhmmadNissan#readme"
+}
