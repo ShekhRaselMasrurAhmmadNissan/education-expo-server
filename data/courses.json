@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": "Web Development",
+		"duration": "6 Month",
+		"instructor": "Shekh Rasel",
+		"price": "100",
+		"image": "https://cdn.pixabay.com/photo/2015/09/17/17/25/code-944499_960_720.jpg"
+	},
+	{
+		"id": 2,
+		"name": "JavaScript All You Need To Know",
+		"duration": "3 Month",
+		"instructor": "Shekh Rasel",
+		"price": "80",
+		"image": "https://cdn.pixabay.com/photo/2019/10/03/12/12/javascript-4523100_960_720.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Algorithms and Data Structures",
+		"duration": "4 Month",
+		"instructor": "Shekh Rasel",
+		"price": "110",
+		"image": "https://images.unsplash.com/photo-1547190027-9156686aa2f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+	},
+	{
+		"id": 4,
+		"name": "Machine Learning Courses",
+		"duration": "6 Month",
+		"instructor": "Shekh Rasel",
+		"price": "150",
+		"image": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"id": 5,
+		"name": "MERN Stack Development",
+		"duration": "8 Month",
+		"instructor": "Shekh Rasel",
+		"price": "180",
+		"image": "https://images.unsplash.com/photo-1573495627361-d9b87960b12d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+	},
+	{
+		"id": 6,
+		"name": "Software Development Life Cycle",
+		"duration": "3 Month",
+		"instructor": "Shekh Rasel",
+		"price": "90",
+		"image": "https://lh3.googleusercontent.com/KflLDDs6cZtnwBPLYoA6089bvgnmEE66OrfBfOQqOHTujMufMUCBpe3sqwFs_AkowTvuJhfEE6eOWl0ZTxvHtTo9zrr18q3YdSDsM28nZ-q4HedINcw_E1rZhtAvLrMD7Iql8gWx"
+	},
+	{
+		"id": 7,
+		"name": "Artificial Intelligence (AI)",
+		"duration": "5 Month",
+		"instructor": "Shekh Rasel",
+		"price": "200",
+		"image": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=600"
+	}
+]
