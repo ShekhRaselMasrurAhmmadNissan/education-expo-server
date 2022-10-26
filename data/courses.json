@@ -5,15 +5,17 @@
 		"duration": "6 Month",
 		"instructor": "Shekh Rasel",
 		"price": "100",
-		"image": "https://cdn.pixabay.com/photo/2015/09/17/17/25/code-944499_960_720.jpg"
+		"image": "https://cdn.pixabay.com/photo/2015/09/17/17/25/code-944499_960_720.jpg",
+		"details": "This is a course that will guide students to be a Web Developer in 6 month. After that the students can have the quality to become a Junior Web Developer."
 	},
 	{
 		"id": 2,
 		"name": "JavaScript All You Need To Know",
 		"duration": "3 Month",
-		"instructor": "Shekh Rasel",
+		"instructor": "SG Sidhu",
 		"price": "80",
-		"image": "https://cdn.pixabay.com/photo/2019/10/03/12/12/javascript-4523100_960_720.jpg"
+		"image": "https://cdn.pixabay.com/photo/2019/10/03/12/12/javascript-4523100_960_720.jpg",
+		"details": "This is a JS Course that will cover JS from beginning to Expert level. It will take 3 months to complete the course."
 	},
 	{
 		"id": 3,
@@ -21,15 +23,17 @@
 		"duration": "4 Month",
 		"instructor": "Shekh Rasel",
 		"price": "110",
-		"image": "https://images.unsplash.com/photo-1547190027-9156686aa2f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+		"image": "https://images.unsplash.com/photo-1547190027-9156686aa2f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+		"details": "This course is about Algorithm and Data Structure. The duration of this course is 4 months. The instructor will teach about various algorithm and data structure model in this time period."
 	},
 	{
 		"id": 4,
 		"name": "Machine Learning Courses",
 		"duration": "6 Month",
-		"instructor": "Shekh Rasel",
+		"instructor": "Shekh Rayan",
 		"price": "150",
-		"image": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+		"image": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"details": "This course is about machine learning. During the 6 month period of this course the students will complete 2 real time project to boost their knowledge in Machine Learning."
 	},
 	{
 		"id": 5,
@@ -37,22 +41,25 @@
 		"duration": "8 Month",
 		"instructor": "Shekh Rasel",
 		"price": "180",
-		"image": "https://images.unsplash.com/photo-1573495627361-d9b87960b12d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+		"image": "https://images.unsplash.com/photo-1573495627361-d9b87960b12d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+		"details": "This is a part of a Full Stack Software Development. This course will take 8 month to be finished and cove 4 real time project in this duration. This course will follow MERN development process."
 	},
 	{
 		"id": 6,
 		"name": "Software Development Life Cycle",
 		"duration": "3 Month",
-		"instructor": "Shekh Rasel",
+		"instructor": "Nissan Ahmmad",
 		"price": "90",
-		"image": "https://lh3.googleusercontent.com/KflLDDs6cZtnwBPLYoA6089bvgnmEE66OrfBfOQqOHTujMufMUCBpe3sqwFs_AkowTvuJhfEE6eOWl0ZTxvHtTo9zrr18q3YdSDsM28nZ-q4HedINcw_E1rZhtAvLrMD7Iql8gWx"
+		"image": "https://lh3.googleusercontent.com/KflLDDs6cZtnwBPLYoA6089bvgnmEE66OrfBfOQqOHTujMufMUCBpe3sqwFs_AkowTvuJhfEE6eOWl0ZTxvHtTo9zrr18q3YdSDsM28nZ-q4HedINcw_E1rZhtAvLrMD7Iql8gWx",
+		"details": "This course is about the SDLC. A lots of students do not completely understands the software Development Life Cycle which prevents them from becoming a Good Developer. This course will take 3 months and will teach complete SDLC."
 	},
 	{
 		"id": 7,
 		"name": "Artificial Intelligence (AI)",
 		"duration": "5 Month",
-		"instructor": "Shekh Rasel",
+		"instructor": "Nissan Ahmmad",
 		"price": "200",
-		"image": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=600"
+		"image": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=600",
+		"details": "This course is about Artificial Intelligence (AI). The students will learn about the AI in this 5 months."
 	}
 ]
